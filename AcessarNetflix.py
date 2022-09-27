@@ -1,4 +1,4 @@
-#Como cirar uma automação
+#Como criar uma automação
 
 #Acessar o netflix, colocar o login e senha, apertar no entrar e escolher o usuário que irá ver o filme
 
